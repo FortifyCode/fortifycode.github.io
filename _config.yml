@@ -1,0 +1,13 @@
+title: PowerFind
+email: nestor@profesional.co.cr
+description: >
+  A high performance and scalable static search in JavaScript
+baseurl: ""
+url: "http://powerfind.github.io"
+twitter_username: nestormata
+github_username:  nestormata
+repo_url: https://github.com/PowerFind/PowerFind
+repo_invite: Get PowerFind!
+
+# Build settings
+markdown: kramdown
